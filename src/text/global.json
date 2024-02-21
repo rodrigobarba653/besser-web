@@ -196,6 +196,7 @@
     "cardsection": {
       "subheader": "",
       "title": "Visión",
+      "id":"carsection1",
       "cards": [
         {
           "id": "liderazgo",
@@ -232,6 +233,7 @@
     "cardsection": {
       "subheader": "",
       "title": "",
+      "id":"carsection2",
       "cards": [
         {
           "id": "dir-card1",
@@ -361,6 +363,7 @@
     "cardsection": {
       "subheader": "",
       "title": "Últimas publicaciones",
+      "id":"carsection3",
       "cards": [
         {
           "id": "card1",
@@ -424,6 +427,7 @@
     },
     "cardsection": {
       "subheader": "Contacto",
+      "id":"carsection4",
       "title": "Mándanos un mensaje",
       "url": "/assets/contacto.png",
       "cards": [

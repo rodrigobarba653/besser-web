@@ -17,6 +17,7 @@ function Card({
   return (
     <>
       <Col className={`col-md-${col} col-12`}>
+        {}
         <Col className="bg-white p-4 card-b">
           {dirFound ? (
             <img className="card-c-img" src={url} />

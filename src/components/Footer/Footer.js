@@ -17,13 +17,13 @@ function Footer() {
             {cols.map((col) => {
               const id = col.id;
               return (
-                <Col md={3} className="text-white">
+                <Col key={col.id} md={3} className="text-white">
                   <h4>{col.title}</h4>
                   {id === "col1" && (
                     <Row>
                       {redes.map((red) => {
                         return (
-                          <Col className="redes-wrapper col-2">
+                          <Col key={red.id} className="redes-wrapper col-2">
                             <a href={red.link}>
                               <img src={red.url} />
                             </a>

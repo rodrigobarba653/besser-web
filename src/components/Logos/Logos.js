@@ -20,7 +20,7 @@ function Logos({ page, section }) {
           </Row>
           <Row className="">
             {logos.map((logo) => {
-              return <Logo url={logo.url}></Logo>;
+              return <Logo key={logo.id} url={logo.url}></Logo>;
             })}
           </Row>
         </Container>

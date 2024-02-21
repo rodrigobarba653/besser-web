@@ -23,6 +23,7 @@ function CardSection({ page, section, col, dirFound, pubFound, padding }) {
             {cards.map((card) => {
               return (
                 <Card
+                  key={card.id}
                   padding={padding}
                   col={col}
                   title={card.title}
