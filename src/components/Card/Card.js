@@ -22,7 +22,6 @@ function Card({
             <img className="card-c-img" src={url} />
           ) : (
             <img
-              style={padding ? { marginLeft: "-10px" } : ""}
               className={`card-b-img ${padding}`}
               src={url}
             />
