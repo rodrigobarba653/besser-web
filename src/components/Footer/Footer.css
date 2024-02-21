@@ -1,0 +1,19 @@
+.footer {
+  background-color: #595959;
+}
+
+.footer a {
+  color: #fff;
+}
+
+.footer a:hover {
+  opacity: 0.6;
+}
+
+.redes-wrapper {
+  width: 24px;
+}
+
+.redes-wrapper img {
+  width: 24px;
+}

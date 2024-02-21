@@ -1,0 +1,462 @@
+{
+  "contactform": {
+    "contact": {
+      "subheader": "Contactanos",
+      "title": "Escríbenos",
+      "url": "/assets/extra2.png",
+      "form": {
+        "nombre": "Nombre completo",
+        "nombreinvalid": "Necesitas ingresar tu nombre completo.",
+        "correo": "Correo electrónico",
+        "correoinvalid": "Necesitas ingresar un correo electrónico valido.",
+        "mensaje": "Escribe tu mensaje",
+        "mensajeinvalid": "Necesitas escribir un mensaje.",
+        "submit": "Enviar"
+      }
+    }
+  },
+  "homepage": {
+    "hero": {
+      "title": "Transformando la práctica del Derecho",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "nosotros": {
+      "subheader": "Nosotros",
+      "title": "Bienvenido",
+      "body": "A partir de la experiencia que aporta cada una de las firmas que integran la alianza, BESSER se ha convertido en una alternativa vanguardista en la prestación de servicios legales de consultoría y litigio, privilegiando la especialización, calidad y compromiso en las relaciones que ha construido con sus clientes. \n\n Besser Law Firm Alliance, cuenta con una fuerza de más de cien abogados y especialistas que están transformando la práctica del derecho en México, integrando en una misma plataforma una visión multidisciplinaria, costo – eficiente y flexible."
+    },
+
+    "servicios": {
+      "subheader": "Servicios",
+      "title": "Áreas de Práctica",
+      "cards": [
+        {
+          "id": "empresarial",
+          "url": "/assets/card1.png",
+          "link": "#",
+          "linktext": "Ver más",
+          "title": "Empresarial",
+          "body": "Litigio, Microfinanzas, Responsabilidad social y sustentabilidad."
+        },
+        {
+          "id": "proteccion",
+          "url": "/assets/card2.png",
+          "link": "#",
+          "linktext": "Ver más",
+          "title": "Protección de datos personales",
+          "body": "Asesoría integral en materia de privacidad, protección de datos personales y seguridad de la información."
+        },
+        {
+          "id": "penal",
+          "url": "/assets/card3.png",
+          "link": "#",
+          "linktext": "Ver más",
+          "title": "Penal",
+          "body": "Litigio, representación de personas físicas y jurídicas, Consultoría, Compliance penal en materia de prevención del delito."
+        },
+        {
+          "id": "laboral",
+          "url": "/assets/card4.png",
+          "link": "#",
+          "linktext": "Ver más",
+          "title": "Laboral",
+          "body": "Asesoría en el desarrollo de esquemas de contratación individual y colectivos, Asesoría en el otorgamiento de prestaciones y planes de incentivos, Esquema de contratación y paquetes para expatriados."
+        },
+        {
+          "id": "migratorio",
+          "url": "/assets/card5.png",
+          "link": "#",
+          "linktext": "Ver más",
+          "title": "Migratorio",
+          "body": "Consultoría y asistencia con: Políticas y programas migratorios, Obtención de visas y documentos incluyendo tramitación, legalización y/o apostilla, Planeación de asignaciones empresariales."
+        }
+      ]
+    },
+    "alianza": {
+      "subheader": "Alianza",
+      "title": "Firmas en alianza",
+      "images": [
+        {
+          "id": "img1",
+          "url": "/assets/al1.png"
+        },
+        {
+          "id": "img2",
+          "url": "/assets/al2.png"
+        },
+        {
+          "id": "img3",
+          "url": "/assets/al3.png"
+        },
+        {
+          "id": "img4",
+          "url": "/assets/al4.png"
+        },
+        {
+          "id": "img5",
+          "url": "/assets/al5.png"
+        }
+      ]
+    },
+    "brochure": {
+      "title": "“Transformando la práctica del derecho”",
+      "button": "Ver brochure",
+      "link": "/assets/brochure_besser-español.pdf",
+      "url": "/assets/hero.png"
+    },
+    "extra": {
+      "subheader": "Extras",
+      "title": "Asesoría legal Pro Bono",
+      "url": "/assets/extra1.png",
+      "body": "El trabajo legal Pro Bono es parte de la responsabilidad social de Besser Law Firm Alliance, a través Appleseed México, A.C., organización que facilita el acceso de nuestra alianza a proyectos Pro Bono, proveemos de asesoría legal gratuita a organizaciones sociales para apoyar el fortalecimiento del sector social en México y para proyectos sin fines de lucro."
+    },
+    "extra2": {
+      "title": "Socio de la Cámara Española de Comercio",
+      "url": "/assets/extra2.png",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia."
+    },
+    "contact": {
+      "subheader": "Contactanos",
+      "title": "Escríbenos",
+      "url": "/assets/extra2.png",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia."
+    },
+    "footer": {
+      "redes": [
+        {
+          "id": "footer-facebook",
+          "url": "/assets/facebook.png",
+          "link": "#"
+        },
+        {
+          "id": "footer-twitter",
+          "url": "/assets/twitter.png",
+          "link": "#"
+        },
+        {
+          "id": "footer-linkedin",
+          "url": "/assets/linkedin.png",
+          "link": "#"
+        },
+        {
+          "id": "footer-instagram",
+          "url": "/assets/instagram.png",
+          "link": "#"
+        }
+      ],
+      "cols": [
+        {
+          "id": "col1",
+          "title": "Redes Sociales"
+        },
+        {
+          "id": "col2",
+          "title": "Contacto",
+          "link": "mailto:contacto@besser.com.mx",
+          "linktext": "contacto@besser.com.mx"
+        },
+        {
+          "id": "col3",
+          "title": "Legales",
+          "link": "#",
+          "linktext": "Aviso de Privacidad"
+        },
+        {
+          "id": "col4",
+          "title": "Besser",
+          "body": "Besser© 2024 Todos los derechos reservados."
+        }
+      ]
+    }
+  },
+  "nosotros": {
+    "hero": {
+      "title": "Quienes Somos",
+      "url": "/assets/nosotros-hero.png"
+    },
+    "twocolumns": {
+      "subheader": "Quiénes somos",
+      "title": "Misión y Visión",
+      "body": "La prestación de servicios legales especializados de excelencia, a través de diversas firmas de abogados independientes que unen sus esfuerzos para proporcionar a los clientes un servicio con altos estándares de calidad y profesionalismo."
+    },
+    "cardsection": {
+      "subheader": "",
+      "title": "Visión",
+      "cards": [
+        {
+          "id": "liderazgo",
+          "url": "/assets/card6.png",
+          "title": "Liderazgo",
+          "body": "Las firmas de abogados miembros que integran la alianza, somos líderes reconocidos en el entorno del área legal especializada que representamos."
+        },
+        {
+          "id": "confianza",
+          "url": "/assets/card7.png",
+          "title": "Confianza",
+          "body": "Inspiramos confianza por la experiencia adquirida y los resultados alcanzados en la prestación de servicios legales en el área de especialidad que representamos derivada de la alta especialización de los miembros de la alianza."
+        },
+        {
+          "id": "servicio",
+          "url": "/assets/card8.png",
+          "title": "Servicio al cliente",
+          "body": "Siendo firmas ampliamente reconocidas los mejores en nuestra respectiva rama jurídica ponemos todo el esfuerzo para obtener dar resultados óptimos y de alta calidad para nuestros clientes."
+        },
+        {
+          "id": "pasion",
+          "url": "/assets/card9.png",
+          "title": "Pasión por ganar",
+          "body": "El principal foco de atención de nuestros miembros se traduce en dar un trato personalizado, de calidad y con una estrecha comunicación hacia nuestros clientes enfocado a resultados."
+        }
+      ]
+    }
+  },
+  "directorio": {
+    "hero": {
+      "title": "Directorio de firmas",
+      "url": "/assets/directorio-hero.png"
+    },
+    "cardsection": {
+      "subheader": "",
+      "title": "",
+      "cards": [
+        {
+          "id": "dir-card1",
+          "link": "ansa-global",
+          "linktext": "Ver más",
+          "title": "Ansa Global"
+        },
+        {
+          "id": "dir-card2",
+          "link": "castro-pizaña",
+          "linktext": "Ver más",
+          "title": "Castro Pizaña"
+        },
+        {
+          "id": "dir-card3",
+          "link": "ethics-compliance-bureau",
+          "linktext": "Ver más",
+          "title": "Ethics Compliance Bureau"
+        },
+        {
+          "id": "dir-card4",
+          "link": "dpma",
+          "linktext": "Ver más",
+          "title": "DPMA"
+        },
+        {
+          "id": "dir-card5",
+          "link": "fragomen",
+          "linktext": "Ver más",
+          "title": "Fragomen"
+        },
+        {
+          "id": "dir-card6",
+          "link": "mendez-cortes-s-c-abogados-e-ingenieros",
+          "linktext": "Ver más",
+          "title": "Mendez Cortes SC Abogados e Ingenieros"
+        },
+        {
+          "id": "dir-card7",
+          "link": "piza-abogados",
+          "linktext": "Ver más",
+          "title": "Piza Abogados"
+        }
+      ]
+    },
+    "dirid": [
+      {
+        "id": "ansa-global",
+        "name": "Ansa Global",
+        "email": "info@ansa-global.com",
+        "emaillink": "mailto:info@ansa-global.com",
+        "url": "/assets/ansa.png",
+        "maintitle": "Protección de datos personales y seguridad de la información",
+        "mainbody": "Es una realidad: el entorno digital y los avances tecnológicos rompieron las fronteras para el flujo de información personal y, protegerla, requiere soluciones integrales acorde con legislaciones y regulaciones, incluso de carácter internacional.\n\nInnovadora Firma, fundada en el año 2002, especializada en materia de Privacidad y Protección de Datos Personales, que asesora a empresasnacionales e internacionales en el desarrollo de estrategias y políticas para proteger la información personal.\n\nEnfocamos nuestra experiencia en crear soluciones novedosas que den a nuestros clientes una ventaja competitiva en su mercado o sector, privilegiando el cumplimiento normativo y la mitigación de riesgos asociados al tratamiento de información personal.",
+        "title": "Servicios",
+        "body": "Algunos de nuestros servicios en materia de protección de datos personales son:\n\n • Análisis jurídico de obligaciones al amparo de la legislación aplicable.\n • Desarrollo e implementación de controles legales, atendiendo a los diferentes procesos de negocio en la organización.\n • Capacitación a la organización.\n • Establecimiento de protocolos y/o políticas para cumplir con los principios que rige en tratamiento de los datos personales, acorde a la normatividad vigente y mejores prácticas internacionales.\n • Análisis del ciclo de vida de la información Personal.\n • Estudio de impacto a la privacidad relacionado con los procesos de negocio dentro de una organización.\n • Redacción de avisos de privacidad atendiendo a las necesidades específicas de la organización.",
+        "title2": "En materia de seguridad de la información",
+        "body2": "• Pruebas de intrusión.\n• Análisis de vulnerabilidades.\n• El robustecimiento de la infraestructura.\n• Análisis de riesgos.\n• Revisiones de aplicaciones web.\n• Capacitación corporativa."
+      },
+      {
+        "id": "castro-pizaña",
+        "name": "Castro Pizaña",
+        "email": "moises@castropizana.mx",
+        "emaillink": "mailto:moises@castropizana.mx",
+        "url": "/assets/castro-pizana.png",
+        "maintitle": "Derecho Penal",
+        "mainbody": "En 2013 renace como firma boutique especializada en litigio y consultoría en materia penal, cumplimiento corporativo en materia de prevención de lavado de dinero, prevención del delito y anticorrupción, atendiendo al nuevo sistema de justicia penal acusatorio.\n\n Experiencia y liderazgo. Despacho líder que genera valor agregado a sus clientes, pues a través del conocimiento jurídico genera con integridad y ética la mejor solución jurídica posible con excelentes resultados.",
+        "title": "Servicios",
+        "body": "• Representación de víctimas u ofendidos en la comisión de delitos mediante la presentación de denuncias y querellas, así como en la asesoría jurídica de los mismos en todo tipo de procedimientos y recursos judiciales, inclusive el amparo, en cualquier parte de la República Mexicana.\n\n• Representación de imputados o acusados en la comisión de delitos, y  personas jurídicas, por la falta de controles para la prevención de delitos, en todas las etapas del procedimiento, recursos judiciales e inclusive en el juicio de amparo, en cualquier parte de la República Mexicana.\n\n • Desahogo de todo tipo de consultas y emisión de opiniones jurídicas relacionadas con la materia penal, prevención de lavado de dinero y la prevención de delitos tanto locales como federales; capacitación en el nuevo sistema de justicia penal y asesoría para la debida interpretación de disposiciones legales y criterios en materia penal.\n\n• Asesoría para el debido cumplimiento corporativo en materia de prevención de lavado de dinero, prevención de actos relacionados con hechos de corrupción y prevención del delito conforme al sistema de justicia penal acusatorio, así como para la correcta implementación de programas de cumplimiento relacionados con la materia penal.\n\n• Diseño, implementación y seguimiento de programas de cumplimiento relacionados con la materia penal a partir del análisis de riesgos delictivos, manuales de cumplimiento, políticas, procedimientos, controles de prevención, medidas de mitigación, capacitación de empleados y directores, para la prevención de delitos relacionados con la operación de las empresas y evitar la responsabilidad penal de las mismas.",
+        "title2": "",
+        "body2": ""
+      },
+      {
+        "id": "ethics-compliance-bureau",
+        "name": "Ethics Compliance Bureau",
+        "email": "informes@ecbmexico.com",
+        "emaillink": "mailto:informes@ecbmexico.com",
+        "url": "/assets/al1.png",
+        "maintitle": "Compliance",
+        "mainbody": "Con más de 20 años de experiencia en la implementación de recursos de cumplimiento normativo, integridad y Compliance.\n\nEn ECB tenemos como valor fundamental: la excelencia, no solo en la implementación de los servicios con los que contamos, sino también en el trato con nuestros clientes, con quienes generamos relaciones a largo plazo. Conformamos un equipo multidisciplinario integrado por diversas áreas: Estrategias Legales, Innovación, Gestión de Conocimiento, Cultura, Educación y Relaciones Públicas.\n\nEn ECB apostamos por la heterogeneidad para conformar una estructura capaz de resolver cualquier necesidad de nuestros clientes desde diversos enfoques posibles.",
+        "title": "Servicios",
+        "body": "• Diseñamos programas de Compliance a la medida, por industria, alcance y necesidad especíﬁca.\n\n• Acompañamos en la creación de la posición y el equipo del Oﬁcial de Cumplimiento (Compliance Officer).\n\n• Asesoramos en la creación de una cultura de integridad y ética corporativa.\n\n• Diseñamos, implementamos y auditamos programas de Compliance.\n\n• Establecemos un Código de Conducta o políticas internas corporativas.\n\n• Ofrecemos asesoría para conocer derechos y obligaciones en la prevención de riesgos penales por falta de cumplimiento normativo y las que deriven de estos.\n\n• Implementamos una línea de ayuda, así como la estructura del recibimiento y proceso de peticiones, ideas, quejas y denuncias.",
+        "title2": "",
+        "body2": ""
+      },
+      {
+        "id": "dpma",
+        "name": "DPMA",
+        "email": "carlos.matuk@dpma.com.mx",
+        "emaillink": "mailto:carlos.matuk@dpma.com.mx",
+        "url": "/assets/de-la-peza-matuk.png",
+        "maintitle": "Civil, Mercantil, Arbitraje Mercantil, Microfinanzas",
+        "mainbody": "El dinamismo jurídico de hoy debe empatar con el dinamismo comercial sin perder la ética. Los clientes buscan abogados que solucionen problemas con visión de los riesgos en la toma de decisiones; y en los litigios se busca que resuelvan controversias y que no se limiten a sólo llevar juicios.\n\nFirma que desde hace más de 30 años presta servicios en el área de litigio (civil, mercantil, responsabilidad civil, responsabilidad patrimonial del estado, litigio derivado de contrataciones públicas), en el área de derecho corporativo y de microfinanzas.\n\nBajo las premisas de ética justicia, ética, responsabilidad y compromiso social, nuestro equipo de abogados está altamente especializado para prestar servicios jurídicos tanto a empresas nacionales y extranjeras, como a personas y a entidades gubernamentales en el diseño e implementación de estructuras jurídicas específicas.",
+        "title": "Servicios",
+        "body": "• Litigio: representamos a nuestros clientes ante Tribunales locales y federales en la Ciudad de México y en estados vecinos, en materia civil, mercantil, amparo, concursos mercantiles y arbitraje comercial; Responsabilidad Civil, Responsabilidad Patrimonial del Estado, Litigio derivados de Contrataciones Públicas.\n\n• Corporativo: brindamos asesoría corporativa participando inclusive como miembros del Consejo de Administración en algunas sociedades; en proyectos de inversión público privada, así como en la planeación y desarrollo de proyectos de infraestructura a gobiernos y a entidades privadas.\n\n• Microfinanzas: contamos con amplia experiencia en entidades financieras, organizaciones auxiliares del crédito, así como, entidades de ahorro y crédito popular.",
+        "title2": "",
+        "body2": ""
+      },
+      {
+        "id": "fragomen",
+        "name": "Fragomen",
+        "email": "mexicocityinfo@fragomen.com",
+        "emaillink": "mailto:mexicocityinfo@fragomen.com",
+        "url": "/assets/fragomen.png",
+        "maintitle": "Derecho Migratorio",
+        "mainbody": "Nuestra firma fue constituida en 1951, teniendo una larga trayectoria ubicándose entre las firmas más reconocidas del mercado con diversos reconocimientos como:\n\n• Fragomen Recognized as Immigration Leader by Chambers USA 2017 – 2018\n• Fragomen Awarded Immigration Provider of the Year at Americas EMMAs 2017 – 2018\n• Fragomen named firm of the year in Immigration by Who´s Who Legal 2017 – 2018\n\nNuestra fortaleza se debe gracias al alcance con el que contamos, ya que tenemos más de 55 oficinas alrededor del mundo con operación en más de 170 países.",
+        "mainbody2": "Gracias a que tenemos más de 500 equipos de abogados ubicados estratégicamente en nuestras oficinas nos permitimos tener profesionistas especializados en sus jurisdicciones, lo que implica una calidad de servicio altamente confiable.\n\nAl ser la firma legal migratoria más grande del mundo, somos el socio estratégico ideal de su empresa. Nuestros servicios legales, asesorías y estrategias migratoria, son realizados en observancia del marco legal de cada país, en cumplimiento diferentes instrumentos internacionales y legislaciones como US Foreign Corrupt Practices Act (FCPA) y UK Bribery Act.",
+        "title": "Servicios Globales",
+        "body": "• Consultoría y asistencia en estrategias migratorias y proyectos de movilidad.\n\n• Obtención de visas (corta y larga estancia).\n\n• Gestión de documentos (obtención, traducción, legalización y/o apostilla.)\n\n• Asesoría migratoria en fusiones y adquisiciones empresariales.",
+        "title2": "Servicios Locales",
+        "body2": "• Registro, obtención, renovación y reposición de tarjetas de residente\n\n• Registro y actualización de Constancias de Inscripción de Empleadores\n\n• Cumplimiento de obligaciones ante el Instituto Nacional de Migración\n\n• Procesos de Naturalización\n\n• Permisos de entrada y salida del territorio nacional\n\n• Registro y obtención de CURP, RFC, IMSS, FIEL"
+      },
+      {
+        "id": "mendez-cortes-s-c-abogados-e-ingenieros",
+        "name": "Mendez Cortes SC Abogados e Ingenieros",
+        "email": "jjm@mencort.mx",
+        "emaillink": "mailto:jjm@mencort.mx",
+        "url": "/assets/al1.png",
+        "maintitle": "Propiedad Intelectual (Patentes, Marcas Y Derechos de autor).",
+        "mainbody": "Todos los aspectos de la propiedad intelectual (patentes, marcas, derechos de autor, etc.), crecerán en un futuro próximo frente a las políticas del gobierno mexicano para atraer inversión extranjera y el desarrollo de nuevas tecnologías, tal y como lo demuestra el Instituto Mexicano de la Propiedad Industrial (IMPI). Somos una firma de alcance global, percibida como una de las mejores opciones en materia de propiedad intelectual en México.\n\n Con 13 años de experiencia, el equipo MENCORT es reconocido por sus estrategias claras, propositivas e innovadoras, lo que le ha permitido participar de manera activa en los cambios legislativos necesarios para la materia en el país.",
+        "mainbody2": "Hemos incorporado nuevas tecnologías a nuestra práctica sobre patentes, marcas y software de litigios (como Mencort IP support software) lo que nos permite ofrecer precios transparentes y competitivos. Mantenemos un networking como parte de asociaciones internacionales como INTA, AIPPI, ASIPI, ECTA, ABPI, etc. Y promovemos activamente los cambios en la legislación local sobre propiedad intelectual de México.",
+        "title": "Servicios",
+        "body": "• Asesoramiento óptimo sobre cualquier aspecto de la propiedad intelectual: marcas, patentes, litigios, diseños Industriales, nombres de dominio; investigaciones, mediación, piratería, contratos, licenciamiento, derechos de imagen y Tecnologías de la Información y protección de datos; así como Derecho Corporativo y Regulatorio para aumentar el valor patrimonial de sus empresas, negocios y propiedades.\n\n• Derechos de Autor: negociación y revisión de contratos; trámite, gestión, obtención y mantenimiento de registros ante el Instituto Nacional del Derecho de Autor. (INDAUTOR) y litigio como acciones civiles, administrativas y penales para hacer valer los derechos concedidos ante terceros infractores, en el siguiente tipo de obras literarias, musicales, danza, pictóricas, escultóricas, caricaturas, arquitectónicas, audiovisuales. Así como programas de radio y televisión, programas de cómputo, fotografía, obras de arte aplicado, Creaciones Comerciales Nuevas; y Traspaso o Transferencia de Tecnología.",
+        "title2": "",
+        "body2": ""
+      },
+      {
+        "id": "piza-abogados",
+        "name": "Piza Abogados",
+        "email": "jjm@mencort.mx",
+        "emaillink": "piza@pizaabogados.com",
+        "url": "/assets/al1.png",
+        "maintitle": "Derecho Laboral.",
+        "mainbody": "Pizá Abogados es una Firma líder en la prestación de servicios legales en materia laboral, contando con un gran equipo de abogados especializados en lograr que nuestros clientes apliquen de manera eficaz las disposiciones que se encuentran tanto en la ley Federal del Trabajo como en sus disposiciones reglamentarias, para así cumplir con las obligaciones que tienen en sus relaciones obrero patronales.",
+        "mainbody2": "La Firma cuenta con una amplia experiencia relacionada con la prevención del conflicto a través de un área de Consultoría Laboral, dando asesoría a diversos clientes en el desarrollo de esquemas de contratación individual y/o colectiva de conformidad con las opciones que la Ley Federal del Trabajo otorga; reglamentos interiores de trabajo y políticas necesarias dentro de las Empresas; asesoría relacionada con el otorgamiento de diversas prestaciones y planes de comisiones e incentivos; consultas en participación de utilidades, sustitución patronal, intermediación laboral, etc.; esquemas de contratación y paquetes económicos para expatriados; se lleva a cabo una análisis a fondo sobre contratos de prestación de servicios y en especial el tema de subcontratación mejor conocido como Outsourcing para así evitar contingencias económicas a raíz de las reformas que al respecto se han hecho a la Ley Federal del Trabajo; estrategias relacionadas con la transferencia de personal derivada de un fusión o adquisición en material laboral.\n\n Asimismo, se practican auditorías o diagnósticos laborales a efecto de determinar si los clientes se encuentran cumpliendo con las diversas disposiciones laborales.\n\nPor otro lado, Pizá Abogados cuenta con un área dedicada al Litigio Laboral, a través de personal especializado que a través del estudio de las diversas demandas, determina la mejor defensa para sus clientes.\n\nEn este orden de ideas dichos especialistas atienden juicios tanto de carácter individual como colectivo ante las Juntas de Conciliación y Arbitraje que existen en las jurisdicciones locales o federales, desde su etapa conciliatoria hasta la representación ante los Tribunales administrativos y de Amparo según sea el caso.\n\nLa Firma brinda tención y representación ante la Secretaría del Trabajo y Previsión Social durante las inspecciones generales de trabajo que llegan a ser practicadas en los centros de trabajo.\n\nEs así como en Pizá Abogados, se busca la plena satisfacción del cliente, a través de diversos sistemas innovadores a fin de prestar servicios legales a Empresas nacionales y multinacionales consistentes principalmente a la implementación y desarrollo de estrategias que permitan la optimización de sus relaciones obrero patronales.",
+        "title": "Servicios",
+        "body": "•Asesoría en el desarrollo de esquemas de contratación individual y/o colectiva de conformidad con las opciones de la Ley Federal del Trabajo.\n\n•Asesoría en el otorgamiento de diversas prestaciones y planes de comisiones e incentivos; consultas en participación de utilidades, sustitución patronal, intermediación laboral, etc.\n\n•Esquemas de contratación y paquetes económicos para expatriados.\n\n•Análisis sobre contratos de prestación de servicios y en especial la subcontratación y/o Outsourcing.\n\n•Litigio Laboral tanto de carácter individual como colectivo.\n\n•Atención y representación ante la Secretaría del Trabajo y Previsión Social durante las inspecciones ordinarias y extraordinarias.",
+        "title2": "",
+        "body2": ""
+      }
+    ]
+  },
+  "publicaciones": {
+    "hero": {
+      "title": "Publicaciones",
+      "url": "/assets/publicaciones-hero.png"
+    },
+    "cardsection": {
+      "subheader": "",
+      "title": "Últimas publicaciones",
+      "cards": [
+        {
+          "id": "card1",
+          "link": "las-mejores-firmas-legales-en-mexico",
+          "linktext": "Ver más",
+          "title": "Las mejores firmas legales en México"
+        },
+        {
+          "id": "card2",
+          "link": "chambers-and-partner-2021",
+          "linktext": "Ver más",
+          "title": "Chambers and Partner 2021"
+        }
+      ]
+    },
+    "pubid": [
+      {
+        "id": "las-mejores-firmas-legales-en-mexico",
+        "title": "Las mejores firmas legales en México",
+        "subheader": "Publicaciones",
+        "body": "Besser Law Firm Alliance, cuenta con destacados socios, considerados los mejores despachos de abogados en México, por su capacidad y nivel de servicio.",
+        "url": "/assets/pub1.png"
+      },
+      {
+        "id": "chambers-and-partner-2021",
+        "title": "Chambers and Partner 2021",
+        "subheader": "Publicaciones",
+        "body": "Como cada año, el periódico Reforma publica el suplemento Las Mejores Firmas Legales en México según Chambers and Partners, en donde se presentan los resultados del ranking que esta editorial realiza a las firmas de abogados más importantes en nuestro pais.\n\nBesser Law Firm Alliance cuenta con destacados socios reconocidos por Chambers and Partners como mejores despachos de abogados en México, por su capacidad y nivel de servicio.",
+        "url": "/assets/pub2.png"
+      }
+    ]
+  },
+  "probono": {
+    "hero": {
+      "title": "Probono",
+      "url": "/assets/probono-hero.png"
+    },
+    "generaltext": {
+      "subheader": "Probono",
+      "title": "Asesoría legal pro bono",
+      "body": "El trabajo legal Pro Bono es parte de la responsabilidad social de Besser Law Firm Alliance, a través Appleseed México, A.C., organización que facilita el acceso de nuestra alianza a proyectos Pro Bono, proveemos de asesoría legal gratuita a organizaciones sociales para apoyar el fortalecimiento del sector social en México y para proyectos sin fines de lucro.",
+      "url": "/assets/probono.png"
+    }
+  },
+  "afiliaciones": {
+    "hero": {
+      "title": "Afiliaciones",
+      "url": "/assets/afiliaciones-hero.png"
+    },
+    "generaltext": {
+      "subheader": "Probono",
+      "title": "Cámara Española de Comercio, A.C.",
+      "body": "Con más de 100 años de historia, la Cámara Española de Comercio es una asociación civil sin ánimo de lucro, reconocida oficialmente por el Estado Español y creada con el fin de fortalecer el desarrollo de las relaciones económicas y empresariales entre España y México, fomentando las inversiones y el intercambio comercial entre ambos países.\n\n Desde 2017, Besser Law Firm Alliance, es socio de la Cámara Española de Comercio, A.C., a través de esta relación se busca contribuir con la red de socios de la cámara y facilitar el acceso de nuestra alianza a proyectos que requieran asesoría legal para apoyar el fortalecimiento del sector comercial entre México y España.",
+      "url": "/assets/afiliaciones.png"
+    }
+  },
+  "contacto": {
+    "hero": {
+      "title": "Contacto",
+      "url": "/assets/contacto-hero.png"
+    },
+    "cardsection": {
+      "subheader": "Contacto",
+      "title": "Mándanos un mensaje",
+      "url": "/assets/contacto.png",
+      "cards": [
+        {
+          "id": "telefono",
+          "url": "/assets/telefono.png",
+          "title": "Vía telefónica",
+          "body": "",
+          "link": "tel:+52(55)52070967",
+          "linktext": "+52 (55) 5207 0967"
+        },
+        {
+          "id": "email",
+          "url": "/assets/mail.png",
+          "title": "Email",
+          "body": "",
+          "link": "mailto:contacto@localhost.com",
+          "linktext": "contacto@localhost"
+        },
+        {
+          "id": "localizacion",
+          "url": "/assets/pin.png",
+          "title": "Localización",
+          "body": "Paseo de los Tamarindos #400 Torre B Piso 27, Bosques de las Lomas,CDMX C.P. 05120"
+        }
+      ]
+    }
+  }
+}

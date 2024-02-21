@@ -1,0 +1,22 @@
+.card-b a {
+  color: #cd1c23 !important;
+}
+
+.card-b {
+  border-bottom: 4px solid #cd1c23;
+  display: flex;
+  padding: 24px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex: 1 0 0;
+  align-self: stretch;
+}
+
+.card-b-img {
+  max-width: 42px !important;
+}
+
+.card-c-img {
+  max-width: 100px;
+}

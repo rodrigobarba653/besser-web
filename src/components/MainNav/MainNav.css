@@ -1,0 +1,7 @@
+.navbar-brand img {
+  height: 50px;
+}
+
+.offcanvas-body {
+  justify-content: end !important;
+}

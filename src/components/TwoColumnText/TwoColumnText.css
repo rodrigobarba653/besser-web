@@ -1,0 +1,11 @@
+.twocolumns-padding {
+  padding-top: auto;
+  padding-bottom: auto;
+}
+
+@media screen and (min-width: 992px) {
+  .twocolumns-padding {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+}

@@ -1,0 +1,23 @@
+.twocolumns-padding {
+  padding-top: auto;
+  padding-bottom: auto;
+}
+
+.logo-img {
+  padding: 0px 20px;
+}
+
+.logo-img img {
+  max-width: 100%;
+}
+
+@media screen and (min-width: 992px) {
+  .twocolumns-padding {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .logo-img {
+    padding: 0px 80px;
+  }
+}

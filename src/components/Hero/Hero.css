@@ -1,0 +1,25 @@
+.hero {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-title {
+  font-size: 42px;
+}
+
+.hero-text {
+  height: 380px;
+  padding-top: 80px;
+}
+
+@media screen and (min-width: 767px) {
+  .hero-text {
+    height: 600px;
+    padding-top: 180px;
+  }
+
+  .hero-title {
+    font-size: 52px;
+  }
+}

@@ -1,0 +1,12 @@
+.subheader-text {
+  color: #626262 !important;
+  text-transform: uppercase;
+}
+
+.subheader-line {
+  background-color: #626262;
+  height: 2px;
+  width: 100px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
