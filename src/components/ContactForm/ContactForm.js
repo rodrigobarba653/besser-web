@@ -57,7 +57,7 @@ function ContactForm({ page, section }) {
 
             <Col md={6}>
               <Form onSubmit={formik.handleSubmit}>
-                <Form.Group className="mb-3" controlId="formName">
+                <Form.Group className="mb-3">
                   <Form.Label htmlFor="firstName">
                     {texts[page][section].form.nombre}
                   </Form.Label>
@@ -77,7 +77,7 @@ function ContactForm({ page, section }) {
                   ) : null}
                 </Form.Group>
 
-                <Form.Group className="mb-3" controlId="formEmail">
+                <Form.Group className="mb-3">
                   <Form.Label htmlFor="email">
                     {texts[page][section].form.correo}
                   </Form.Label>
@@ -98,7 +98,7 @@ function ContactForm({ page, section }) {
                   ) : null}
                 </Form.Group>
 
-                <Form.Group className="mb-3" controlId="formTextarea">
+                <Form.Group className="mb-3">
                   <Form.Label htmlFor="lastName">
                     {texts[page][section].form.mensaje}
                   </Form.Label>
