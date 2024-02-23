@@ -253,14 +253,14 @@
           "id": "dir-card4",
           "link": "dpma",
           "linktext": "Ver más",
-          "title": "De La Peza & Matuk",
+          "title": "De La Peza & Matuk Abogados",
           "url": "/assets/de-la-peza-matuk.png"
         },
         {
           "id": "dir-card5",
           "link": "fragomen",
           "linktext": "Ver más",
-          "title": "Fragomen",
+          "title": "Fragomen Worldwide",
           "url": "/assets/fragomen.png"
         },
         {
@@ -314,7 +314,7 @@
       },
       {
         "id": "dpma",
-        "name": "De La Peza & Matuk",
+        "name": "De La Peza & Matuk Abogados",
         "email": "carlos.matuk@dpma.com.mx",
         "emaillink": "mailto:carlos.matuk@dpma.com.mx",
         "url": "/assets/de-la-peza-matuk.png",
@@ -327,7 +327,7 @@
       },
       {
         "id": "fragomen",
-        "name": "Fragomen",
+        "name": "Fragomen Worldwide",
         "email": "mexicocityinfo@fragomen.com",
         "emaillink": "mailto:mexicocityinfo@fragomen.com",
         "url": "/assets/fragomen.png",
