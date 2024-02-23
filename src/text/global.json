@@ -188,15 +188,15 @@
       "body": "La prestación de servicios legales especializados de excelencia, a través de diversas firmas de abogados independientes que unen sus esfuerzos para proporcionar a los clientes un servicio con altos estándares de calidad y profesionalismo."
     },
     "twocolumnsinverted": {
-      "subheader": "Socio",
+      "subheader": "Presidente de Besser, socio de litigio en Pizá Abogados",
       "url": "/assets/alejandro.jpg",
       "title": "Alejandro Díaz Fernández",
-      "body": "Egresado de la Universidad Tecnológica de México, cuenta con un Posgrado en Derecho Laboral y Seguridad Social y concluyó la Maestría en Derecho Laboral en la Escuela Libre de Derecho en 2019.\n\nExperiencia acumulada de más de 30 años en destacadas firmas especializadas en materia laboral.\n\nReconocido por Chambers & Partners, The Best Lawyers, The Benchmark Litigation Latin America, Legal 500 y Latin Lawyer como uno de los mejores abogados en materia laboral.\n\n Miembro de la Academia Mexicana del Derecho Procesal del Trabajo, de la Asociación Nacional de Abogados de Empresa, Colegio de Abogados, A.C. y del Instituto Latinoamericano de Derecho del Trabajo y de la Seguridad Social.\n\nSocio encargado del área de litigio en Bufete Pizá Asociados, S.C., donde destacan sus competencias en temas como:\n\n- Litigio laboral individual (local y federal).\n\n- Elaboración y atención de Amparos indirectos y directos ante Juzgados de Distrito, Tribunales Colegiados y Suprema Corte de Justicia de la Nación.\n\n- Atención de Inspecciones de la STPS y especializado en litigio por multas derivadas de las inspecciones ante el Tribunal Federal de Justicia Administrativa.\n\n De igual manera, académicamente, destacan sus participaciones como:\n\n- Expositor en los cursos de Actualización y Formación Académica de la Junta Federal de Conciliación y Arbitraje y en los foros sobre Justicia Cotidiana en Materia Laboral.\n\n- Expositor en cursos de capacitación para Directivos, Gerentes y mandos intermedios en diversas empresas.\n\n- Articulista en la Revista Laboral.\n\n- Expositor en cursos derivados de la reforma laboral de 2019."
+      "body": "Experiencia acumulada de más de 30 años en destacadas firmas especializadas en materia laboral.\n\nReconocido por Chambers & Partners, The Best Lawyers, The Benchmark Litigation Latin America, Legal 500 y Latin Lawyer como uno de los mejores abogados en materia laboral.\n\n Miembro de la Academia Mexicana del Derecho Procesal del Trabajo, de la Asociación Nacional de Abogados de Empresa, Colegio de Abogados, A.C. y del Instituto Latinoamericano de Derecho del Trabajo y de la Seguridad Social.\n\nSocio encargado del área de litigio en Bufete Pizá Asociados, S.C., donde destacan sus competencias en temas como:\n\n- Litigio laboral individual (local y federal).\n\n- Elaboración y atención de Amparos indirectos y directos ante Juzgados de Distrito, Tribunales Colegiados y Suprema Corte de Justicia de la Nación.\n\n- Atención de Inspecciones de la STPS y especializado en litigio por multas derivadas de las inspecciones ante el Tribunal Federal de Justicia Administrativa.\n\n De igual manera, académicamente, destacan sus participaciones como:\n\n- Expositor en los cursos de Actualización y Formación Académica de la Junta Federal de Conciliación y Arbitraje y en los foros sobre Justicia Cotidiana en Materia Laboral.\n\n- Expositor en cursos de capacitación para Directivos, Gerentes y mandos intermedios en diversas empresas.\n\n- Articulista en la Revista Laboral.\n\n- Expositor en cursos derivados de la reforma laboral de 2019."
     },
     "cardsection": {
       "subheader": "",
       "title": "Visión",
-      "id":"carsection1",
+      "id": "carsection1",
       "cards": [
         {
           "id": "liderazgo",
@@ -233,27 +233,27 @@
     "cardsection": {
       "subheader": "",
       "title": "",
-      "id":"carsection2",
+      "id": "carsection2",
       "cards": [
         {
           "id": "dir-card1",
           "link": "ansa-global",
           "linktext": "Ver más",
-          "title": "Ansa Global",
+          "title": "ANSA Global",
           "url": "/assets/ansa.png"
         },
         {
           "id": "dir-card2",
           "link": "castro-pizaña",
           "linktext": "Ver más",
-          "title": "Castro Pizaña",
+          "title": "Castro Pizaña Abogados",
           "url": "/assets/castro-pizana.png"
         },
         {
           "id": "dir-card4",
           "link": "dpma",
           "linktext": "Ver más",
-          "title": "DPMA",
+          "title": "De La Peza & Matuk",
           "url": "/assets/de-la-peza-matuk.png"
         },
         {
@@ -267,7 +267,7 @@
           "id": "dir-card7",
           "link": "piza-abogados",
           "linktext": "Ver más",
-          "title": "Piza Abogados",
+          "title": "Pizá Abogados",
           "url": "/assets/piza.png"
         }
       ]
@@ -275,7 +275,7 @@
     "dirid": [
       {
         "id": "ansa-global",
-        "name": "Ansa Global",
+        "name": "ANSA Global",
         "email": "info@ansa-global.com",
         "emaillink": "mailto:info@ansa-global.com",
         "url": "/assets/ansa.png",
@@ -314,7 +314,7 @@
       },
       {
         "id": "dpma",
-        "name": "DPMA",
+        "name": "De La Peza & Matuk",
         "email": "carlos.matuk@dpma.com.mx",
         "emaillink": "mailto:carlos.matuk@dpma.com.mx",
         "url": "/assets/de-la-peza-matuk.png",
@@ -341,7 +341,7 @@
       },
       {
         "id": "piza-abogados",
-        "name": "Piza Abogados",
+        "name": "Pizá Abogados",
         "email": "jjm@mencort.mx",
         "emaillink": "piza@pizaabogados.com",
         "url": "/assets/piza.png",
@@ -363,7 +363,7 @@
     "cardsection": {
       "subheader": "",
       "title": "Últimas publicaciones",
-      "id":"carsection3",
+      "id": "carsection3",
       "cards": [
         {
           "id": "card1",
@@ -427,7 +427,7 @@
     },
     "cardsection": {
       "subheader": "Contacto",
-      "id":"carsection4",
+      "id": "carsection4",
       "title": "Mándanos un mensaje",
       "url": "/assets/contacto.png",
       "cards": [
