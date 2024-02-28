@@ -11,12 +11,13 @@ function Hero({ page }) {
         className="hero"
         style={{
           backgroundImage: `url("/assets/hero.png")`,
-        }}>
+        }}
+      >
         <Container className="hero-container">
           <Row>
             <Col md={6} className="hero-text text-left">
               <h1 className="hero-title">{texts.homepage.hero.title}</h1>
-              <p>{texts.homepage.hero.title}</p>
+              <p>{texts.homepage.hero.body}</p>
               <Button className="px-4 py-3">Contáctanos</Button>
             </Col>
           </Row>

@@ -38,7 +38,7 @@ function MainNav() {
               <Offcanvas.Body>
                 <Nav>
                   <Link className="me-3 nav-link" to="/nosotros">
-                    Quienes Somos
+                    Quiénes Somos
                   </Link>
                   <Link className="me-3 nav-link" to="/directorio">
                     Directorio de Firmas
